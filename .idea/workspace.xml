@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1e64647b-6715-480a-910b-3e8ee7ec69d1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/settleup$Test__payments_utils_tests_OptimizationTest.coverage" NAME="Test: payments.utils.tests.OptimizationTest Coverage Results" MODIFIED="1544390144162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/settleup$Test__payments_utils_tests_OptimizationTest_test_create_matrix.coverage" NAME="Test: payments.utils.tests.OptimizationTest.test_create_matrix Coverage Results" MODIFIED="1544390301779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/settleup$optimization.coverage" NAME="optimization Coverage Results" MODIFIED="1544389527763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/payments/utils" />
+    <SUITE FILE_PATH="coverage/settleup$Test__payments_tests_TestRoomsModel.coverage" NAME="Test: payments.tests.TestRoomsModel Coverage Results" MODIFIED="1547121756892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/settleup$Unittests_for_tests_TestOptimization_test_advanced_transitions.coverage" NAME="Unittests for tests.TestOptimization.test_advanced_transitions Coverage Results" MODIFIED="1546940438341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/payments/utils" />
+    <SUITE FILE_PATH="coverage/settleup$Unittests_for_tests_TestOptimization_test_float_point_operations.coverage" NAME="Unittests for tests.TestOptimization.test_float_point_operations Coverage Results" MODIFIED="1546940685651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/payments/utils" />
+    <SUITE FILE_PATH="coverage/settleup$Test__payments_tests_TestPayments_test_payment.coverage" NAME="Test: payments.tests.TestPayments.test_payment Coverage Results" MODIFIED="1547120941573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/settleup$Unittests_for_tests_TestOptimization_test_summarize_matrix.coverage" NAME="Unittests for tests.TestOptimization.test_summarize_matrix Coverage Results" MODIFIED="1544449284555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/payments/utils" />
+    <SUITE FILE_PATH="coverage/settleup$Test__payments_tests_TestPayments.coverage" NAME="Test: payments.tests.TestPayments Coverage Results" MODIFIED="1547121750066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/settleup$Unittests_for_tests_TestOptimization_test_simple_transitions.coverage" NAME="Unittests for tests.TestOptimization.test_simple_transitions Coverage Results" MODIFIED="1546940932714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/payments/utils" />
+    <SUITE FILE_PATH="coverage/settleup$Unittests_for_tests_TestOptimization_test_create__empty_matrix.coverage" NAME="Unittests for tests.TestOptimization.test_create__empty_matrix Coverage Results" MODIFIED="1544449272316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/payments/utils" />
+    <SUITE FILE_PATH="coverage/settleup$Unittests_for_tests_TestOptimization_test_usual_walkthrough.coverage" NAME="Unittests for tests.TestOptimization.test_usual_walkthrough Coverage Results" MODIFIED="1545239886905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/payments/utils" />
+    <SUITE FILE_PATH="coverage/settleup$Test__payments_tests_TestPayments_test_delete_payment.coverage" NAME="Test: payments.tests.TestPayments.test_delete_payment Coverage Results" MODIFIED="1547119827053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/settleup$Test__payments_tests_TestRoomsModel_test_add_user.coverage" NAME="Test: payments.tests.TestRoomsModel.test_add_user Coverage Results" MODIFIED="1544435352321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/settleup$Test__payments_tests_TestPayments_test_delete_payment_integrity_check.coverage" NAME="Test: payments.tests.TestPayments.test_delete_payment_integrity_check Coverage Results" MODIFIED="1547121712723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/settleup$Unittests_for_tests_TestOptimization_test_one_transition_with_optimization.coverage" NAME="Unittests for tests.TestOptimization.test_one_transition_with_optimization Coverage Results" MODIFIED="1544437115664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/payments/utils" />
+    <SUITE FILE_PATH="coverage/settleup$Unittests_for_tests_TestOptimization_test_add_user.coverage" NAME="Unittests for tests.TestOptimization.test_add_user Coverage Results" MODIFIED="1544449276174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/payments/utils" />
+    <SUITE FILE_PATH="coverage/settleup$Unittests_for_tests_TestOptimization_test_simple_float_point_operations.coverage" NAME="Unittests for tests.TestOptimization.test_simple_float_point_operations Coverage Results" MODIFIED="1546940661549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/payments/utils" />
+    <SUITE FILE_PATH="coverage/settleup$Test__payments_tests_TestRoomsModel_test_create_room.coverage" NAME="Test: payments.tests.TestRoomsModel.test_create_room Coverage Results" MODIFIED="1544434257983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/settleup$Unittests_for_tests_TestOptimization.coverage" NAME="Unittests for tests.TestOptimization Coverage Results" MODIFIED="1546940944375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/payments/utils" />
+    <SUITE FILE_PATH="coverage/settleup$Unittests_for_tests_TestOptimization_test_create_matrix.coverage" NAME="Unittests for tests.TestOptimization.test_create_matrix Coverage Results" MODIFIED="1544449268926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/payments/utils" />
+    <SUITE FILE_PATH="coverage/settleup$Unittests_for_tests_TestOptimization_test_biggest_pledger.coverage" NAME="Unittests for tests.TestOptimization.test_biggest_pledger Coverage Results" MODIFIED="1546521981147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/payments/utils" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="90513b60:SqliteImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="90513b60:SqliteImplModel$Schema" />
+        <item name="django_content_type: table" type="ffe0bd85:SqliteImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="90513b60:SqliteImplModel$Schema" />
+        <item name="django_session: table" type="ffe0bd85:SqliteImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="collations" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1426136813">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="27" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="3" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="4" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.16" value="2" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.21" value="2" />
+          <entry key="project.open.time.22" value="2" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.51" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="27" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="django_admin_log" value="1" />
+          <entry key="django_content_type" value="1" />
+          <entry key="django_migrations" value="1" />
+          <entry key="django_session" value="1" />
+          <entry key="gitignore" value="1" />
+          <entry key="md" value="2" />
+          <entry key="py" value="106" />
+          <entry key="sqlite_master" value="1" />
+          <entry key="tsx" value="1" />
+          <entry key="txt" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Database Element" value="5" />
+          <entry key="Markdown" value="2" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Python" value="106" />
+          <entry key="TypeScript JSX" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Django Console" value="883" />
+          <entry key="md" value="320" />
+          <entry key="py" value="10917" />
+          <entry key="txt" value="653" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Markdown" value="320" />
+          <entry key="PLAIN_TEXT" value="653" />
+          <entry key="Python" value="11800" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="TypeScriptServerServiceImpl" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1391350269">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="INSTALLER" value="1" />
+          <entry key="METADATA" value="1" />
+          <entry key="RECORD" value="1" />
+          <entry key="WHEEL" value="1" />
+          <entry key="cfg" value="1" />
+          <entry key="json" value="2" />
+          <entry key="md" value="1" />
+          <entry key="py" value="19" />
+          <entry key="rst" value="1" />
+          <entry key="txt" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Ini" value="1" />
+          <entry key="JSON" value="2" />
+          <entry key="Markdown" value="1" />
+          <entry key="PLAIN_TEXT" value="9" />
+          <entry key="Python" value="19" />
+          <entry key="ReST" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="txt" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="14" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>print</find>
+      <find>sett</find>
+      <find>settle</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/payments/utils/__init__.py" />
+        <option value="$PROJECT_DIR$/payments/utils/tests.py" />
+        <option value="$PROJECT_DIR$/payments/tests.py" />
+        <option value="$PROJECT_DIR$/payments/utils/optimization.py" />
+        <option value="$PROJECT_DIR$/users/models.py" />
+        <option value="$PROJECT_DIR$/users/schema.py" />
+        <option value="$PROJECT_DIR$/settleup/schema.py" />
+        <option value="$PROJECT_DIR$/payments/admin.py" />
+        <option value="$PROJECT_DIR$/payments/utils/secretManager.py" />
+        <option value="$PROJECT_DIR$/payments/models.py" />
+        <option value="$PROJECT_DIR$/payments/schema.py" />
+        <option value="$PROJECT_DIR$/settleup/settings.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1612" />
+    <option name="y" value="-142" />
+    <option name="width" value="1296" />
+    <option name="height" value="696" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="fannypack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fannypack" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fannypack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fannypack" type="462c0819:PsiDirectoryNode" />
+              <item name="fannypack" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fannypack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fannypack" type="462c0819:PsiDirectoryNode" />
+              <item name="payments" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\PyCharm 2018.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Django server.fannypack">
+    <configuration name="Test: payments.tests.TestPayments" type="DjangoTestsConfigurationType" factoryName="Django tests" temporary="true">
+      <module name="fannypack" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="payments.tests.TestPayments" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test: payments.tests.TestPayments.test_delete_payment" type="DjangoTestsConfigurationType" factoryName="Django tests" temporary="true">
+      <module name="fannypack" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="payments.tests.TestPayments.test_delete_payment" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test: payments.tests.TestPayments.test_delete_payment_integrity_check" type="DjangoTestsConfigurationType" factoryName="Django tests" temporary="true">
+      <module name="fannypack" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="payments.tests.TestPayments.test_delete_payment_integrity_check" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test: payments.tests.TestPayments.test_payment" type="DjangoTestsConfigurationType" factoryName="Django tests" temporary="true">
+      <module name="fannypack" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="payments.tests.TestPayments.test_payment" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test: payments.tests.TestRoomsModel" type="DjangoTestsConfigurationType" factoryName="Django tests" temporary="true">
+      <module name="fannypack" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="payments.tests.TestRoomsModel" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fannypack" type="Python.DjangoServer" factoryName="Django server">
+      <module name="fannypack" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="fannypack.settings" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Code\django-backend-settleup\fannypack\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Django server.fannypack" />
+      <item itemvalue="Django tests.Test: payments.tests.TestPayments.test_delete_payment" />
+      <item itemvalue="Django tests.Test: payments.tests.TestPayments.test_delete_payment_integrity_check" />
+      <item itemvalue="Django tests.Test: payments.tests.TestPayments" />
+      <item itemvalue="Django tests.Test: payments.tests.TestPayments.test_payment" />
+      <item itemvalue="Django tests.Test: payments.tests.TestRoomsModel" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Django tests.Test: payments.tests.TestRoomsModel" />
+        <item itemvalue="Django tests.Test: payments.tests.TestPayments" />
+        <item itemvalue="Django tests.Test: payments.tests.TestPayments.test_delete_payment_integrity_check" />
+        <item itemvalue="Django tests.Test: payments.tests.TestPayments.test_payment" />
+        <item itemvalue="Django tests.Test: payments.tests.TestPayments.test_delete_payment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e64647b-6715-480a-910b-3e8ee7ec69d1" name="Default Changelist" comment="" />
+      <created>1543309900395</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543309900395</updated>
+    </task>
+    <task id="LOCAL-00001" summary="cors allow all">
+      <created>1543324427075</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1543324427075</updated>
+    </task>
+    <task id="LOCAL-00002" summary="optimization class">
+      <created>1544110805243</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1544110805243</updated>
+    </task>
+    <task id="LOCAL-00003" summary="optimization algorithm fixed&#10;basic tests added">
+      <created>1544394705703</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1544394705703</updated>
+    </task>
+    <task id="LOCAL-00004" summary="summarize matrix algorithm fixed/simplified&#10;room model now stores matrix as json string, is queryable through gql">
+      <created>1544451754656</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1544451754656</updated>
+    </task>
+    <task id="LOCAL-00005" summary="saving matrix is now transaction - solves problem in data concurrency">
+      <created>1545313189946</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1545313189946</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added room total spending and biggest pledger determination logic">
+      <created>1546531280324</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1546531280324</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add room name to admin section">
+      <created>1546867539670</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1546867539670</updated>
+    </task>
+    <task id="LOCAL-00008" summary="float point operations">
+      <created>1546954207595</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1546954207595</updated>
+    </task>
+    <task id="LOCAL-00009" summary="delete payment logic and schema">
+      <created>1547123359496</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1547123359496</updated>
+    </task>
+    <task id="LOCAL-00010" summary="payment timestamp">
+      <created>1547139098921</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1547139098921</updated>
+    </task>
+    <task id="LOCAL-00011" summary="room api now communicates via id (name before &lt;- bad identificator)">
+      <created>1547478144240</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1547478144240</updated>
+    </task>
+    <task id="LOCAL-00012" summary="rooms can be protected by secret word&#10;api adjusted accordingly">
+      <created>1548086367018</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1548086367018</updated>
+    </task>
+    <task id="LOCAL-00013" summary="README">
+      <created>1548772361982</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1548772361982</updated>
+    </task>
+    <task id="LOCAL-00014" summary="README">
+      <created>1548772531580</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1548772531580</updated>
+    </task>
+    <task id="LOCAL-00015" summary="clean-up">
+      <created>1548778081007</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1548778081007</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Test__payments_tests_TestPayments_test_delete_payment_integrity_check - 2019.01.10 at 12h 51m 24s.xml">
+      <configuration name="Test: payments.tests.TestPayments.test_delete_payment_integrity_check" configurationId="DjangoTestsConfigurationType" />
+    </history-entry>
+    <history-entry file="Test__payments_tests_TestPayments_test_delete_payment_integrity_check - 2019.01.10 at 12h 53m 15s.xml">
+      <configuration name="Test: payments.tests.TestPayments.test_delete_payment_integrity_check" configurationId="DjangoTestsConfigurationType" />
+    </history-entry>
+    <history-entry file="Test__payments_tests_TestPayments_test_delete_payment_integrity_check - 2019.01.10 at 12h 54m 45s.xml">
+      <configuration name="Test: payments.tests.TestPayments.test_delete_payment_integrity_check" configurationId="DjangoTestsConfigurationType" />
+    </history-entry>
+    <history-entry file="Test__payments_tests_TestPayments_test_delete_payment_integrity_check - 2019.01.10 at 12h 55m 43s.xml">
+      <configuration name="Test: payments.tests.TestPayments.test_delete_payment_integrity_check" configurationId="DjangoTestsConfigurationType" />
+    </history-entry>
+    <history-entry file="Test__payments_tests_TestPayments_test_delete_payment_integrity_check - 2019.01.10 at 12h 56m 33s.xml">
+      <configuration name="Test: payments.tests.TestPayments.test_delete_payment_integrity_check" configurationId="DjangoTestsConfigurationType" />
+    </history-entry>
+    <history-entry file="Test__payments_tests_TestPayments_test_delete_payment_integrity_check - 2019.01.10 at 12h 56m 47s.xml">
+      <configuration name="Test: payments.tests.TestPayments.test_delete_payment_integrity_check" configurationId="DjangoTestsConfigurationType" />
+    </history-entry>
+    <history-entry file="Test__payments_tests_TestPayments_test_delete_payment_integrity_check - 2019.01.10 at 13h 01m 16s.xml">
+      <configuration name="Test: payments.tests.TestPayments.test_delete_payment_integrity_check" configurationId="DjangoTestsConfigurationType" />
+    </history-entry>
+    <history-entry file="Test__payments_tests_TestPayments_test_delete_payment_integrity_check - 2019.01.10 at 13h 01m 55s.xml">
+      <configuration name="Test: payments.tests.TestPayments.test_delete_payment_integrity_check" configurationId="DjangoTestsConfigurationType" />
+    </history-entry>
+    <history-entry file="Test__payments_tests_TestPayments - 2019.01.10 at 13h 02m 33s.xml">
+      <configuration name="Test: payments.tests.TestPayments" configurationId="DjangoTestsConfigurationType" />
+    </history-entry>
+    <history-entry file="Test__payments_tests_TestRoomsModel - 2019.01.10 at 13h 02m 39s.xml">
+      <configuration name="Test: payments.tests.TestRoomsModel" configurationId="DjangoTestsConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1928" y="-115" width="1936" height="1176" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.18123667" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32917467" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.7879079" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3915547" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32725528" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3752399" />
+      <window_info anchor="bottom" id="Database Console" order="13" visible="true" weight="0.32917467" />
+      <window_info anchor="bottom" id="TypeScript" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" sideWeight="0.49934298" weight="0.4632196" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32995737" />
+      <window_info anchor="right" x="0" y="0" width="246" height="967" id="Documentation" order="5" sideWeight="0.500657" side_tool="true" weight="0.4067164" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="cors allow all" />
+    <MESSAGE value="optimization class" />
+    <MESSAGE value="optimization algorithm fixed&#10;basic tests added" />
+    <MESSAGE value="summarize matrix algorithm fixed/simplified&#10;room model now stores matrix as json string, is queryable through gql" />
+    <MESSAGE value="saving matrix is now transaction - solves problem in data concurrency" />
+    <MESSAGE value="added room total spending and biggest pledger determination logic" />
+    <MESSAGE value="add room name to admin section" />
+    <MESSAGE value="float point operations" />
+    <MESSAGE value="delete payment logic and schema" />
+    <MESSAGE value="payment timestamp" />
+    <MESSAGE value="room api now communicates via id (name before &lt;- bad identificator)" />
+    <MESSAGE value="rooms can be protected by secret word&#10;api adjusted accordingly" />
+    <MESSAGE value="README" />
+    <MESSAGE value="clean-up" />
+    <option name="LAST_COMMIT_MESSAGE" value="clean-up" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/payments/models.py</url>
+          <line>75</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/payments/models.py</url>
+          <line>74</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/payments/utils/secretManager.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/payments/utils/secretManager.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/payments/schema.py</url>
+          <line>55</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="DjangoTestsConfigurationType">
+        <watch expression="room.matrix" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/fannypack/schema.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fannypack/urls.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fannypack/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/payments/utils/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/payments/utils/optimization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2988">
+          <caret line="166" selection-start-line="166" selection-end-line="166" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/payments/utils/secretManager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/payments/utils/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="33" lean-forward="true" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/payments/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/payments/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/payments/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/payments/schema.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="981">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://772a3363-5613-484f-879f-22571815ce82/schema/main/table/django_session" />
+    <entry file="das://772a3363-5613-484f-879f-22571815ce82/schema/main/table/django_content_type" />
+    <entry file="das://772a3363-5613-484f-879f-22571815ce82/schema/main/table/django_admin_log" />
+    <entry file="das://772a3363-5613-484f-879f-22571815ce82/schema/main/table/sqlite_master" />
+    <entry file="file://$PROJECT_DIR$/payments/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/users/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/users/schema.py" />
+    <entry file="file://$PROJECT_DIR$/payments/migrations/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/payments/migrations/0004_auto_20190117_1445.py" />
+    <entry file="file://$PROJECT_DIR$/payments/migrations/0003_auto_20190114_1334.py" />
+    <entry file="file://$PROJECT_DIR$/payments/migrations/0002_auto_20190111_1704.py" />
+    <entry file="file://$PROJECT_DIR$/payments/migrations/0001_initial.py" />
+    <entry file="file://$PROJECT_DIR$/payments/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/django/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/django/urls/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/venv/pip-selfcheck.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/Django-2.1.3.dist-info/entry_points.txt" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/Django-2.1.3.dist-info/INSTALLER" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/Django-2.1.3.dist-info/LICENSE.txt" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/Django-2.1.3.dist-info/METADATA" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/Django-2.1.3.dist-info/metadata.json" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/Django-2.1.3.dist-info/RECORD" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/Django-2.1.3.dist-info/top_level.txt" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/Django-2.1.3.dist-info/WHEEL" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/Django-2.1.3.dist-info/DESCRIPTION.rst" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/django/__main__.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/django/shortcuts.py" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="306">
+            <caret line="17" selection-start-line="17" selection-end-line="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/django/utils/autoreload.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/django/core/management/commands/runserver.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/django/core/management/base.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/django/core/checks/registry.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/django/core/checks/urls.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/django/utils/functional.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/django/urls/resolvers.py" />
+    <entry file="file://C:/Program Files (x86)/Python35-32/Lib/importlib/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="125" selection-start-line="125" selection-end-line="125" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/pyvenv.cfg">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fannypack/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="29" column="15" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="5" column="55" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
