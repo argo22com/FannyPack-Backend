@@ -1,0 +1,8 @@
+.git
+venv
+.env
+.env.dev
+.docker
+src/celerybeat.pid
+**/.DS_Store
+**/__pycache__
