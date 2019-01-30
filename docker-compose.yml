@@ -1,0 +1,27 @@
+version: '2'
+services:
+
+  app:
+    build:
+      context: .
+      dockerfile: ./.docker/app/Dockerfile
+    volumes:
+      - ./src:/code
+    links:
+      - db:db
+    env_file:
+      - .env.dev
+    ports:
+      - 8080:8080
+
+  db:
+    image: postgres:alpine
+    volumes:
+      - db:/var/lib/postgresql/data
+    env_file:
+      - .env.dev
+    ports:
+      - 65432:5432
+
+volumes:
+  db:

@@ -9,9 +9,8 @@ graphene-django==2.2.0
 graphql-core==2.1
 graphql-relay==0.4.5
 iso8601==0.1.12
-numpy==1.16.0
-pandas==0.24.0
 promise==2.2.1
+psycopg2==2.7.5
 PyJWT==1.7.1
 python-dateutil==2.7.5
 pytz==2018.9
