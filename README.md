@@ -9,8 +9,8 @@ Installation
 
 - install dependencies with `requirements.txt`
 
-- create db `django manage.py makemigrations` && `django manage.py migrate`
-- run server `django manage.py runserver` in root directory
+- create db `python3 manage.py makemigrations` && `python3 manage.py migrate`
+- run server `python3 manage.py runserver` in root directory
 
 -------------------------
 
